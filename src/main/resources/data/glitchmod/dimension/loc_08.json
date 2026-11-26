@@ -1,0 +1,26 @@
+{
+  "type": "glitchmod:glitch_dusk",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "features": false,
+      "lakes": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 61
+        },
+        {
+          "block": "minecraft:deepslate_tiles",
+          "height": 1
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

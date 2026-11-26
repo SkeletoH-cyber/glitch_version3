@@ -1,0 +1,26 @@
+{
+  "type": "glitchmod:glitch_nether",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "features": false,
+      "lakes": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 61
+        },
+        {
+          "block": "minecraft:obsidian",
+          "height": 1
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

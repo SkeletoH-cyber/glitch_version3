@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["AGA", "GEG", "AGA"],
+  "key": {
+    "A": {"item": "minecraft:amethyst_shard"},
+    "G": {"item": "minecraft:gold_ingot"},
+    "E": {"item": "minecraft:ender_eye"}
+  },
+  "result": {"id": "glitchmod:reality_anchor", "count": 1}
+}

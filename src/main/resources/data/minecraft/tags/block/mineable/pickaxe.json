@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "glitchmod:glitch_block",
+    "glitchmod:corrupted_stone",
+    "glitchmod:corrupted_bricks",
+    "glitchmod:void_block",
+    "glitchmod:glitch_lamp",
+    "glitchmod:static_glass",
+    "glitchmod:error_block",
+    "glitchmod:glitch_pillar"
+  ]
+}
