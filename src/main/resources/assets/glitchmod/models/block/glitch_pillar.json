@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "glitchmod:block/glitch_pillar_top",
+    "side": "glitchmod:block/glitch_pillar"
+  }
+}

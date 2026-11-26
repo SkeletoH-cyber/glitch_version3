@@ -1,0 +1,17 @@
+{
+  "entity.glitchmod.glitch": "Glitch",
+  "entity.glitchmod.glitch_minion": "Glitch Minion",
+  "item.glitchmod.reality_anchor": "Reality Anchor",
+  "item.glitchmod.glitch_spawn_egg": "Glitch Spawn Egg",
+  "item.glitchmod.glitch_minion_spawn_egg": "Glitch Minion Spawn Egg",
+  "itemGroup.glitchmod.glitch": "Glitch",
+  "block.glitchmod.glitch_block": "Glitch Block",
+  "block.glitchmod.corrupted_stone": "Corrupted Stone",
+  "block.glitchmod.corrupted_bricks": "Corrupted Bricks",
+  "block.glitchmod.corrupted_planks": "Corrupted Planks",
+  "block.glitchmod.void_block": "Void Block",
+  "block.glitchmod.glitch_lamp": "Glitch Lamp",
+  "block.glitchmod.static_glass": "Static Glass",
+  "block.glitchmod.error_block": "Error Block",
+  "block.glitchmod.glitch_pillar": "Glitch Pillar"
+}
